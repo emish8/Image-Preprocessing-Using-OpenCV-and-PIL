@@ -52,5 +52,5 @@ Sobel - Vertical and Horizontal Feature Extraction
 Laplace - Finding Edges
 ![image](https://user-images.githubusercontent.com/83595196/204131484-2b10d4f0-1e56-4ba4-a520-306a95cfb06e.png)
 
-Unsharp masking - thourght subtration and PIL inbuil function
+Unsharp masking - thourght subtration and PIL inbuilt function
 ![image](https://user-images.githubusercontent.com/83595196/204131489-3bcafa8f-27ba-4fd1-a376-41aee8a99521.png)
